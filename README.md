@@ -9,6 +9,7 @@
 - <img height="16" width="16" src="https://emojis.slackmojis.com/emojis/images/1511368775/3217/bluelightsaber.png?1511368775" /> Star Wars
 - 🐉 Fantasy/Sci-fi (games, shows, books, etc.)
 - 🏎️ Formula 1
+- 🥖 Baking & Cooking
 
 <!---
 offendo/offendo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
