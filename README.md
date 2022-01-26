@@ -1,4 +1,4 @@
-### Hello :wave: I'm offendo (Nilay).
+### Hello :wave: I'm offendo.
 
 #### I'm one of several things:
 - 🤖 A computer scientist, researching AI (natural language processing)
